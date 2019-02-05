@@ -1,0 +1,6 @@
+- Wake up
+- Go to gym
+- Go to school
+- Go to work
+- Study
+- Go sleep
