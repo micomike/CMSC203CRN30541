@@ -1,0 +1,8 @@
+Done
+* Pull Sequoia trans and supercharger
+* Laundry
+To Do
+* Cmsc 203 assignment 1
+* Read Amy Tan’s “Two Kinds”
+* Rewrite linear alg notes
+* Pull Sequoia engine
